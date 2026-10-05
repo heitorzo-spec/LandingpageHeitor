@@ -14,9 +14,9 @@
 /* ---------- VARIÁVEIS: a paleta em um só lugar ---------- */
 :root {
     --verde: #10B981;      /* cor principal da marca */
-    --roxo: #7C3AED;       /* cor de apoio */
-    --ciano: #00D4FF;      /* destaque do CTA */
-    --escuro: #0D0D1A;     /* fundo escuro */
+    --roxo: #f5742a;       /* cor de apoio */
+    --ciano: #ff0000;      /* destaque do CTA */
+    --escuro: #1a0d0f;     /* fundo escuro */
     --claro: #F8FAFC;      /* texto claro */
 }
 
